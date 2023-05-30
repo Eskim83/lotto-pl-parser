@@ -24,7 +24,7 @@ Udostępniona jest baza danych z wynikami do dnia 30.05.2023 (po południu) lub 
 
 -- KONFIGURACJA --
 
-Ustawienia skryptu znajdują się w pliku config.php
+Ustawienia skryptu znajdują się w pliku config.php. Zanim zaczniemy uruchamiamy plik install.php, który odpowiada za utworzenie bazy i potrzebnych tabel.
 Nie ma problemu, aby dodać tam również obsługę np. Keno, ale ze względu na dużą ilość rekordów będzie się to pobierało bardzo długo.
 
 W ustawieniach podajemy:
