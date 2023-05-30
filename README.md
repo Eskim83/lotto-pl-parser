@@ -1,6 +1,10 @@
 Autor: Maciej Włodarczak (eskim.pl)
 Wersja: 1.0
-Na podstawie artykułu: https://eskim.pl/web-scrapping-w-php/
+Na podstawie artykułu: https://eskim.pl/skrypt-w-php-po-korzystajacy-z-bazy-sqlite/
+
+-----
+Jeżeli przydał Ci się skrypt lub masz jakiekolwiek uwagi wejdź na stronę i zostaw komentarz (nie trzeba się rejestrować). Będzie mi bardzo miło.
+-----
 
 Skrypt pobiera dane z serwisu lotto.pl od początku istnienia. Wyniki zapisuje w bazie SQLite.
 
