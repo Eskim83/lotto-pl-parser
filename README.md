@@ -6,6 +6,7 @@ Na podstawie artykułu: https://eskim.pl/skrypt-w-php-po-korzystajacy-z-bazy-sql
 
 ***
 Jeżeli przydał Ci się skrypt lub masz jakiekolwiek uwagi wejdź na stronę i zostaw komentarz (nie trzeba się rejestrować). Będzie mi bardzo miło.
+Będzie mi jeszcze milej, jeżeli zostawisz link do powyższej strony lub artykułu.
 ***
 
 Skrypt pobiera dane z serwisu lotto.pl od początku istnienia. Wyniki zapisuje w bazie SQLite.
