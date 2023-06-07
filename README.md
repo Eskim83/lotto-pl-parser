@@ -1,6 +1,12 @@
 Autor: Maciej Włodarczak (eskim.pl)
-wersja: 1.0
-Na podstawie artykułu: https://eskim.pl/web-scrapping-w-php/
+
+Wersja: 1.0
+
+Na podstawie artykułu: https://eskim.pl/skrypt-w-php-po-korzystajacy-z-bazy-sqlite/
+
+***
+Jeżeli przydał Ci się skrypt lub masz jakiekolwiek uwagi wejdź na stronę i zostaw komentarz (nie trzeba się rejestrować). Będzie mi bardzo miło.
+***
 
 Skrypt pobiera dane z serwisu lotto.pl od początku istnienia. Wyniki zapisuje w bazie SQLite.
 
@@ -18,7 +24,7 @@ Udostępniona jest baza danych z wynikami do dnia 30.05.2023 (po południu) lub 
 
 -- KONFIGURACJA --
 
-Ustawienia skryptu znajdują się w pliku config.php
+Ustawienia skryptu znajdują się w pliku config.php. Zanim zaczniemy uruchamiamy plik install.php, który odpowiada za utworzenie bazy i potrzebnych tabel.
 Nie ma problemu, aby dodać tam również obsługę np. Keno, ale ze względu na dużą ilość rekordów będzie się to pobierało bardzo długo.
 
 W ustawieniach podajemy:
