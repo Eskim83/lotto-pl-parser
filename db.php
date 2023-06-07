@@ -1,5 +1,12 @@
 <?php
 
+/*
+Autor: Maciej Włodarczak (https://eskim.pl)
+Wersja: 1.0
+
+Na podstawie artykułu: https://eskim.pl/skrypt-w-php-po-korzystajacy-z-bazy-sqlite/
+*/
+
 class Db {
 
 	private $database_name = 'lotto.db';
